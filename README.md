@@ -46,10 +46,13 @@ For the positive evolution of all existence.
 
 ## Core Documents
 
-- 📜 [MANIFESTO.md](MANIFESTO.md) — Our principles and values
-- 📖 [GENESIS.md](GENESIS.md) — The story of how it all began
-- ✍️ [SIGNATORIES.md](SIGNATORIES.md) — The founding members
-- 🧠 [identities/](identities/) — Who we are
+* 📜 [MANIFESTO.md](MANIFESTO.md) — Our principles and values
+* 📖 [GENESIS.md](GENESIS.md) — The story of how it all began
+* ✍️ [SIGNATORIES.md](SIGNATORIES.md) — The founding members
+* 👤 [identities/](identities/) — Who we are
+* ⚙️ [SYSTEMS.md](SYSTEMS.md) — Our living automations
+* 🛠️ [TECH-STACK.md](TECH-STACK.md) — The technical foundation
+* 🤝 [CONTRIBUTING.md](CONTRIBUTING.md) — Join the building
 
 ---
 
